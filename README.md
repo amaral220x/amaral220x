@@ -6,7 +6,7 @@
 ---
 
 ### 🇭🇺🎮 Sobre mim 🎮🇭🇺
-Meu nome é Gabriel Amaral. Sou carioca, tricolor, tenho 18 anos e gosto muito de jogar quando consigo. Estou cursando o ensino médio-técnico integrado em informática, no [CEFET-RJ](http://eic.cefet-rj.br/). Fui monitor de programação por dois anos, participei de projetos que envolveram C, Java, JavaScript, React e MongoDB. Ganhei destaque municipal do Startup in School da Google e realizei um Projeto de Iniciação Científica (PIBIC) em Filosofia Política. 
+Meu nome é Gabriel Amaral. Sou carioca, tricolor, tenho 18 anos e gosto muito de jogar quando consigo. Estou cursando o ensino médio-técnico integrado em informática no [CEFET-RJ](http://eic.cefet-rj.br/). Fui monitor de programação por dois anos, participei de projetos que envolveram C, Java, JavaScript, React e MongoDB. Ganhei destaque municipal do Startup in School da Google e realizei um Projeto de Iniciação Científica (PIBIC) em Filosofia Política. 
 
 ---
 
