@@ -5,7 +5,7 @@
 
 ---
 
-### <img src="https://images.emojiterra.com/openmoji/v12.2/512px/1f1ed-1f1fa.png" width="20" height="20" />🎮 Sobre mim 🎮<img src="https://images.emojiterra.com/openmoji/v12.2/512px/1f1ed-1f1fa.png" width="20" height="20"/>
+### <img src="https://images.emojiterra.com/openmoji/v12.2/512px/1f1ed-1f1fa.png" width="30" height="30" />🎮 Sobre mim 🎮<img src="https://images.emojiterra.com/openmoji/v12.2/512px/1f1ed-1f1fa.png" width="30" height="30"/>
 Meu nome é Gabriel Amaral. Sou carioca, tricolor, tenho 18 anos e gosto muito de jogar quando consigo. Estou cursando o ensino médio-técnico integrado em informática no [CEFET-RJ](http://eic.cefet-rj.br/). Fui monitor de programação por dois anos, participei de projetos que envolveram C, Java, JavaScript, React e MongoDB. Ganhei destaque municipal do Startup in School da Google e realizei um Projeto de Iniciação Científica (PIBIC) em Filosofia Política. 
 
 ---
